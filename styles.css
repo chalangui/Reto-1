@@ -57,5 +57,10 @@ body{
 .img_contact{
     width: 80%;
 }
+@media (min-width: 100px) {
+    .img_contact{
+        width: 55%;
+    }
+  }
 
 /* Body end */
