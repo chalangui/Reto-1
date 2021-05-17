@@ -64,3 +64,9 @@ body{
   }
 
 /* Body end */
+
+footer{
+    padding: 20px;
+    background-color: grey;
+    color: white;
+}
